@@ -8,5 +8,5 @@ Maven dependency
 [ httpclient, httpcore, json, testng ]
 
 Testing api of free open source:
-URL = https://reqres.in
+URL = regres.in 
 
